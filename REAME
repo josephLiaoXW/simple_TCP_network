@@ -1,0 +1,4 @@
+This is a simple server-client test in C, which includes the following 2 functions:
+1. DNS
+2. simple database search
+
